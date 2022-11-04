@@ -12,7 +12,7 @@ For communities of practice, we will:
 
 The project will build on work done by members of the RSSE-Africa community and the Research Software Alliance (ReSA).
 
-
+## License
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
