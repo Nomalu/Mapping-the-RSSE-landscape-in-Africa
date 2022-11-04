@@ -12,7 +12,7 @@ For communities of practice, we will:
 
 The project will build on work done by members of the RSSE-Africa community and the Research Software Alliance (ReSA).
 
-## Code of Condunct
+## Code of Conduct
 
 
 
