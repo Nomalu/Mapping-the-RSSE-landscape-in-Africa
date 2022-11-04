@@ -1,4 +1,4 @@
-# Mapping-the-RSSE-landscape-in-Africa
+# Mapping-the-RSSE-landscape-in-Africa  [![CC BY 4.0][cc-by-shield]][cc-by]
 
 **TL;DR**: Mapping African research software groups and relevant communities of practice to grow the RSE movement in Africa.  
 
@@ -13,7 +13,6 @@ For communities of practice, we will:
 The project will build on work done by members of the RSSE-Africa community and the Research Software Alliance (ReSA).
 
 ## License
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
