@@ -14,7 +14,7 @@ The project will build on work done by members of the RSSE-Africa community and 
 
 ## Code of Conduct
 
-
+As a welcoming community, to encourage a friendly and positive environment we this [code of conduct](https://rsse.africa/services/code_of_conduct/)
 
 ## License
 
